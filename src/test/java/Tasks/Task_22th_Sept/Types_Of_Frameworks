@@ -1,0 +1,170 @@
+/================================================== Types of Frameworks in Automation Testing ==================================================/
+
+1. What is the Framework?
+Answer: A framework is a structure that provides a foundation for developing software applications /
+testAutomation.
+
+key characteristics of frameworks:
+. They provide a structure for organizing code and resources.
+· Proper folder structure to maintain the testcases.
+. They follow best practices and design patterns
+. They promote scalability and flexibility.
+
+Framework vs Library:
+. Library - just bunch of reusable code - request module, pytest - library you can use in your
+framework.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. What are the Types of Frameworks in Automation Testing?
+Answer:
+Types of Framework in Automation Testing are classified as below,
+ - Linear Automation Framework          -|
+ - Modular Driven Framework              | ----- 2 to 5%
+ - Data Driven Framework                 |
+ - Keyword Driven Testing Framework     -|
+ - Behavior Driven Development (BDD) Framework - 15 to 20%
+ - Hybrid Testing Framework ( Mixture of Modular / DDT / Keyword ) - 75%
+ - Test Driven Development (TDD) - Rarely used, only used at few small startups.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Comparison of Different types of Automation Testing Frameworks.
+Answer:
+=======================================================================================================
+ Linear Automation Framework
+---------------------------------------------------------------------------------------------------
+Description:
+A Linear Automation Framework is the simplest “record-and-playback” testing approach where
+test steps are captured sequentially for a single scenario and then replayed as a script
+without much reusable code or abstraction.
+
+Ex: Selenium IDE is the perfect example.
+
+Pros: Easy to create and use, Fast initial development and Good for small projects or quick POCs.
+Cons: Poor reusability and maintainability, Not scalable and No separation of test logic and data.
+
+=======================================================================================================
+Modular Driven Framework
+--------------------------------------------------------------------------------------------------
+Description:
+A Modular Driven Framework divides the Test Scripts into small modules where this modules are
+small scripts written to perform certain tasks.
+
+"Ex: Amazon E-Com App:
+1. Registration / SignUp Module
+2. Login Module
+3. Search Functionality Module
+4. Add to Cart Module
+5. Payment Module
+6. Orders Module
+7. Confirmation Module
+8. Shipping Module
+9. Refund / Cancellation Module".
+
+Pros: Facilitates independent script creation and better organization.
+Cons: Requires more time for analysis and identification of reusable modules.
+
+=======================================================================================================
+Data Driven Framework
+--------------------------------------------------------------------------------------------------
+Description:
+Data driven testing allows the tester to test a single Test script with Multiple set of Test Data
+from a table which is External File (Excel, CSV, JSON, Text etc) and the Test Outputs are placed
+in same table.
+
+Ex: Goal: Automate Login with Multiple Sets of Data.
+- We will test a login page using different usernames and passwords stored in an Excel file.
+
+Pros: Reduces the number of scripts needed; efficient for testing various scenarios.
+Cons: Requires testers to have strong programming skills to manage data sources effectively.
+
+=======================================================================================================
+Keyword Driven Testing Framework
+--------------------------------------------------------------------------------------------------
+Description:
+Keyword Driven Testing Framework is used where the Test cases are build around the "Keywords",
+i.e., the logic of the test is separated from the test script where each keyword are defined
+as functions.
+
+Ex: login Functionality:
+- loginToApplication() > Code.
+- loginWithIncorrect() > Code.
+where loginToApplication and loginWithIncorrect are keywords.
+Perfect Example is Robot Framework.
+
+Pros: Promotes code reusability through the use of shared keywords.
+Cons: Initial setup can be complex and time-consuming; requires a solid understanding of the framework.
+
+=======================================================================================================
+Behavior Driven Development (BDD) Framework
+--------------------------------------------------------------------------------------------------
+Description:
+BDD (Behavior Driven Development) framework encourages collaboration between developers, testers,
+and business stakeholders. The BDD framework allows writing test cases in natural,
+human-readable language (Plain English Sentences usually Gherkin syntax), making it easier
+for non-technical people to understand and contribute.
+
+Ex: Feature: Login functionality
+
+  Scenario: Valid user login
+       Given the user is on the login page
+       When the user enters valid username and password
+       And clicks the login button
+       Then the user should be redirected to the homepage
+
+Tools Supporting BDD:
+- Cucumber (Java, Ruby)
+- Behave (Python)
+- SpecFlow (.NET)
+- JBehave (Java)
+- Gauge
+
+Feature Files: PM / PO / BA - > Gherkin Syntax (Given, When, Then)
+Test Runner: Glue - Feature File > Step?
+Steps(Code): test_PostiveLoginTC_code.java > AT/ SDET"
+
+Pros: Non-technical stakeholders can contribute to test design, improving communication.
+Cons: Requires some technical knowledge and nowdays(PO) don't write the Feature file. (tester)
+
+=======================================================================================================
+Hybrid Testing Framework
+--------------------------------------------------------------------------------------------------
+Description:
+A Hybrid Testing Framework is a combination of two or more testing frameworks — typically
+Data-Driven, Keyword-Driven, and Modular (or even BDD) — designed to leverage the strengths of
+each. It aims to provide a more flexible, scalable, and maintainable testing structure by blending
+different testing approaches to suit complex testing needs.
+
+Ex: Goal: Automate login functionality.
+
+We'll automate a login test using:
+🔑 Keywords: OpenBrowser, Navigate, EnterText, Click, CloseBrowser
+📊 Test Data: Excel file containing usernames and passwords
+🔁 Modular Functions: All actions like open_browser(), enter_text() are separate, reusable functions.
+
+Pros: Offers flexibility and adaptability to different testing needs; maximizes code reuse.
+Cons: can increase automation effort due to scriptings, may be complex.
+
+=======================================================================================================
+Test Driven Development (TDD) Framework
+--------------------------------------------------------------------------------------------------
+Description:
+Test Driven Development is mostly leans towords development where the Tester with gie the Testcases
+to developer to build the applications based on the Gherkin Syntax Test Cases.
+
+Ex: Test Driven Development -> loginpage (vwo.com)
+- login > valid u/p > click submit dashboardpage.
+- login > invalid u/p > click submit > login with error message.
+ - 2 TC created by AT/SDET > Developer creates application which focus on this 2 TC , TC should be passed.
+- Mostly used in Small startups.
+
+Pros: Early Bug Detection, Better Code Quality, Easier Refactoring, Better Collaboration.
+Cons: Increased Development Time, TDD is harder to apply for front-end code or highly
+visual/interactive elements and As code evolves, test cases can become outdated and need
+frequent updates.
+
+=========================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
