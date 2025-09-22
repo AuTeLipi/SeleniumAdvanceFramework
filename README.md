@@ -1,20 +1,22 @@
 # 🚀 Selenium Automation Framework (with Java)
-Author - Dubbaka Lipi Goud
+### Author - Dubbaka Lipi Goud
+
+A Production-Ready Selenium framework in Java that pairs TestNG and Maven with the Page Object Model to keep UI tests scalable and maintainable. It supports safe parallel execution via ThreadLocal WebDriver, produces rich Allure reports, and logs with Log4j2 while SonarLint improves code quality. Configuration is cleanly managed through properties, with Excel‑driven DataProviders enabling data‑driven testing across environments. Tests can run locally or on a Selenoid Docker Grid for fast, distributed, cross‑browser execution.
 
 ### ✅ Selenium Framework Highlights:
-- 💻 Java + Selenium + TestNG for cross-browser web automation
-- 📦 Maven for build management and dependency control
-- 🧪 AssertJ for fluent, readable assertions
-- 🧩 Page Object Model (POM) for scalable test design
-- 🔒 Thread Local Support → Thread Safety → ThreadLocal WebDriver for safe parallel execution
-- 📊 Allure Reports for rich, visual test reporting
-- 📁 Excel Sheet for Test Data → Data Provider for Data-Driven Testing (DDT)
-- ⚙️ Properties File to manage credentials & environment configs
-- 🔁 TestNG Annotations: @Test, @BeforeMethod, @AfterMethod
-- ☁️ Selenoid Docker Grid for distributed cloud test execution
-- 📈 SonarLint for code quality and static analysis
-- ☕ Built with Java 8+ compatibility
-- 🏃‍♂️ Run tests locally or on remote cloud grid (Selenoid)
+- 💻 **Java + Selenium + TestNG** for cross-browser web automation
+- 📦 **Maven** for build management and dependency control
+- 🧪 **AssertJ** for fluent, readable assertions
+- 🧩 **Page Object Model (POM)** for scalable test design
+- 🔒 **Thread Local Support** → Thread Safety → ThreadLocal WebDriver for safe parallel execution
+- 📊 **Allure Reports** for rich, visual test reporting
+- 📁 **Excel Sheet** for Test Data → Data Provider for Data-Driven Testing (DDT)
+- ⚙️ **Properties File** to manage credentials & environment configs
+- 🔁 **TestNG Annotations:** @Test, @BeforeMethod, @AfterMethod
+- ☁️ **Selenoid Docker Grid** for distributed cloud test execution
+- 📈 **SonarLint** for code quality and static analysis
+- ☕ Built with **Java 8+** compatibility
+- 🏃‍♂️ Run tests locally or on remote cloud grid **(Selenoid)**
 
 <img width="1024" alt="Screenshot 2023-10-31 at 12 27 14 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/02b0ef3b-1165-46cf-8c9d-89e41b17032f">
 
@@ -72,6 +74,6 @@ Author - Dubbaka Lipi Goud
 
 ---
 
-✨ “A Hybrid Framework is not just a blend of techniques — it’s the art of bringing together the best of Data-Driven, Keyword-Driven, and Modular approaches into one powerful engine, ensuring automation is as scalable, maintainable, and future-ready as the applications it tests.” 🚀
+✨ “A **Hybrid Framework** is not just a blend of techniques — it’s the art of bringing together the best of **Data-Driven, Keyword-Driven, and Modular** approaches into one powerful engine, ensuring automation is as **scalable, maintainable, and future-ready** as the applications it tests.” 🚀
 
 ---
