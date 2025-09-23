@@ -1,7 +1,7 @@
 package com.LipiAutomation.tests.VWO.pageObjectModelTC;
 
-import com.LipiAutomation.pages.pageObjectModel.VWO.DashBoardPage;
-import com.LipiAutomation.pages.pageObjectModel.VWO.LoginPage;
+import com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM.DashBoardPage;
+import com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM.LoginPage;
 import com.LipiAutomation.utils.PropertiesReader;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

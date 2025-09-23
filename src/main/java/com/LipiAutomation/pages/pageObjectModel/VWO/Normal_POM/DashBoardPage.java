@@ -1,4 +1,4 @@
-package com.LipiAutomation.pages.pageObjectModel.VWO;
+package com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM;
 
 import com.LipiAutomation.utils.WaitHelpers;
 import org.openqa.selenium.By;

@@ -1,4 +1,4 @@
-package com.LipiAutomation.pages.pageObjectModel.VWO;
+package com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM;
 
 import com.LipiAutomation.utils.PropertiesReader;
 import com.LipiAutomation.utils.WaitHelpers;

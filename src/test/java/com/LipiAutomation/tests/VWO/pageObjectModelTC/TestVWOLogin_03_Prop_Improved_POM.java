@@ -2,24 +2,25 @@ package com.LipiAutomation.tests.VWO.pageObjectModelTC;
 
 import com.LipiAutomation.base.CommonToAllTest;
 import com.LipiAutomation.driver.DriverManger;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.testng.annotations.Test;
-import com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM.DashBoardPage;
-import com.LipiAutomation.pages.pageObjectModel.VWO.Normal_POM.LoginPage;
+import com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM.DashBoardPage;
+import com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM.LoginPage;
 import com.LipiAutomation.utils.PropertiesReader;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
-import static org.assertj.core.api.Assertions.*;
+import org.testng.annotations.Test;
 
-public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
+import static org.assertj.core.api.Assertions.assertThat;
 
-    // D
-    // L
-    // V
+public class TestVWOLogin_03_Prop_Improved_POM extends CommonToAllTest {
 
-    private static final Logger logger = LogManager.getLogger(TestVWOLogin_02_Prop_POM.class);
+    // D - Driver
+    // L - Locator
+    // V - Validation
+
+    private static final Logger logger = LogManager.getLogger(TestVWOLogin_03_Prop_Improved_POM.class);
 
 
     @Owner("LIPI")
@@ -41,6 +42,8 @@ public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
         assertThat(error_msg).isNotNull().isNotBlank().isNotEmpty();
         Assert.assertEquals(error_msg,PropertiesReader.readKey("error_message"));
 
+
+
     }
 
     @Owner("LIPI")
@@ -50,20 +53,21 @@ public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
 
         logger.info("Starting the Testcases Page Object Model");
 
+
         // Page Class Code (POM Code) - 2 - L
         LoginPage loginPage_VWO = new LoginPage(DriverManger.getDriver());
         loginPage_VWO.loginToVWOLoginValidCreds(PropertiesReader.readKey("username"),PropertiesReader.readKey("password"));
-
-
 
         DashBoardPage dashBoardPage  = new DashBoardPage(DriverManger.getDriver());
         String usernameLoggedIn = dashBoardPage.loggedInUserName();
 
         assertThat(usernameLoggedIn).isNotBlank().isNotNull().isNotEmpty();
+        logger.info("Done the Test cases");
         Assert.assertEquals(usernameLoggedIn,PropertiesReader.readKey("expected_username"));
 
-        logger.info("Done the Test cases");
+
 
     }
+
 
 }
