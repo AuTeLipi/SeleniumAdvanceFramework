@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import static com.LipiAutomation.driver.DriverManger.getDriver;
+import static com.LipiAutomation.driver.DriverManager.getDriver;
 
 public class ScreenshotListener implements ITestListener {
     @Override

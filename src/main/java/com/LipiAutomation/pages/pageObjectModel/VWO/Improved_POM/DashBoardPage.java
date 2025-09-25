@@ -10,6 +10,7 @@ public class DashBoardPage extends CommonToAllPage {
     WebDriver driver;
 
     public DashBoardPage(WebDriver driver) {
+
         this.driver = driver;
     }
 

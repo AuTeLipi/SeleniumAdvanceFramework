@@ -9,7 +9,7 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-public class DriverManger {
+public class DriverManager {
 
     public static WebDriver driver;
 
@@ -18,7 +18,7 @@ public class DriverManger {
     }
 
     public static void setDriver(WebDriver driver) {
-        DriverManger.driver = driver;
+        DriverManager.driver = driver;
     }
 
     // When we want to start the browser

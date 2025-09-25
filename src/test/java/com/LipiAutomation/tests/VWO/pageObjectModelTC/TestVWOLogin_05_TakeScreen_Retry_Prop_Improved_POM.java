@@ -11,7 +11,7 @@ import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import static com.LipiAutomation.driver.DriverManger.getDriver;
+import static com.LipiAutomation.driver.DriverManager.getDriver;
 
 @Listeners(ScreenshotListener.class)
 @Test(retryAnalyzer = RetryAnalyzer.class)

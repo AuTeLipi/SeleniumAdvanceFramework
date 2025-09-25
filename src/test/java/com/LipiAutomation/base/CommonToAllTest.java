@@ -1,6 +1,6 @@
 package com.LipiAutomation.base;
 
-import com.LipiAutomation.driver.DriverManger;
+import com.LipiAutomation.driver.DriverManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
@@ -9,14 +9,14 @@ public class CommonToAllTest {
     @BeforeMethod
     public void setUp(){
 
-        DriverManger.init();
+        DriverManager.init();
 
     }
 
     @AfterMethod
     public void tearDown(){
 
-        DriverManger.down();
+        DriverManager.down();
 
     }
 
