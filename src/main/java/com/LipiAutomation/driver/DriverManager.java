@@ -14,10 +14,12 @@ public class DriverManager {
     public static WebDriver driver;
 
     public static WebDriver getDriver() {
+
         return driver;
     }
 
     public static void setDriver(WebDriver driver) {
+
         DriverManager.driver = driver;
     }
 
@@ -27,24 +29,26 @@ public class DriverManager {
         browser = browser.toLowerCase();
 
         switch (browser) {
-            case "edge":
-                EdgeOptions edgeOptions = new EdgeOptions();
-                edgeOptions.addArguments("--start-maximized");
-                edgeOptions.addArguments("--guest");
-                driver = new EdgeDriver(edgeOptions);
-                break;
             case "chrome":
                 ChromeOptions chromeOptions = new ChromeOptions();
                 chromeOptions.addArguments("--start-maximized");
-                driver = new ChromeDriver(chromeOptions);
+                setDriver(new ChromeDriver(chromeOptions));
                 break;
+
             case "firefox":
                 FirefoxOptions firefoxOptions = new FirefoxOptions();
                 firefoxOptions.addArguments("--start-maximized");
-                driver = new FirefoxDriver(firefoxOptions);
+                setDriver(new FirefoxDriver(firefoxOptions));
                 break;
+
+            case "edge":
+                EdgeOptions edgeOptions = new EdgeOptions();
+                edgeOptions.addArguments("--start-maximized");
+                setDriver(new EdgeDriver(edgeOptions));
+                break;
+
             default:
-                System.out.println("Not browser Supported!!!");
+                throw new IllegalArgumentException("Unsupported browser: " + browser);
         }
 
 

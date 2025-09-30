@@ -54,8 +54,6 @@ public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
         LoginPage loginPage_VWO = new LoginPage(DriverManager.getDriver());
         loginPage_VWO.loginToVWOLoginValidCreds(PropertiesReader.readKey("username"),PropertiesReader.readKey("password"));
 
-
-
         DashBoardPage dashBoardPage  = new DashBoardPage(DriverManager.getDriver());
         String usernameLoggedIn = dashBoardPage.loggedInUserName();
 

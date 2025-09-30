@@ -78,6 +78,10 @@ public class WaitHelpers {
         return new WebDriverWait(getDriver(), Duration.ofSeconds(20)).until(ExpectedConditions.visibilityOf(elementLocation));
     }
 
+    public static WebElement elementToBeClickable(By elementLocation) {
+        return new WebDriverWait(getDriver(), Duration.ofSeconds(20)).until(ExpectedConditions.elementToBeClickable(elementLocation));
+    }
+
     public WebElement getElement(By key) {
         return getDriver().findElement(key);
     }

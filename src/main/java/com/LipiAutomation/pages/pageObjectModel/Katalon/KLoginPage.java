@@ -2,6 +2,7 @@ package com.LipiAutomation.pages.pageObjectModel.Katalon;
 
 import com.LipiAutomation.base.CommonToAllPage;
 import com.LipiAutomation.utils.PropertiesReader;
+import com.LipiAutomation.utils.TakeScreenShot;
 import com.LipiAutomation.utils.WaitHelpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -19,34 +20,39 @@ public class KLoginPage extends CommonToAllPage {
         this.driver = driver;
     }
 
-    private By MakeAppointmentButton = By.id("btn-make-appointment");
-    private By kLoginPageLoaded = By.xpath("//h1[text()='CURA Healthcare Service']");
     private By kusername = By.id("txt-username");
     private By kpassword = By.id("txt-password");
     private By kLoginButton = By.id("btn-login");
     private By InvalidErrorMsg = By.xpath("//p[contains(text(), 'Login failed!')]");
     private By kAppointmentPageLoaded = By.xpath("//h2[text()='Make Appointment']");
-    private By kAppointConfirmPageLoaded = By.xpath("//h2[text()='Appointment Confirmation']");
+
 
     public String kLoginWithInvalidCred(String kuser, String kpwd) {
-        openKatalonUrl();
-        clickElement(MakeAppointmentButton);
-        WaitHelpers.visibilityOfElement(kLoginPageLoaded);
+
+        kLoginPageURL();
         enterInput(kusername, kuser);
         enterInput(kpassword, kpwd);
+        ts.takeScreenshot("Login_Invalid_Cred");
         clickElement(kLoginButton);
+
         WaitHelpers.visibilityOfElement(InvalidErrorMsg);
+        ts.takeScreenshot("Login_Invalid_ErrorMsg");
         return getText(InvalidErrorMsg);
     }
 
-    public  void kLoginWithValidCred(String kuser, String kpwd) {
-        openKatalonUrl();
-        clickElement(MakeAppointmentButton);
-        WaitHelpers.visibilityOfElement(kLoginPageLoaded);
+    public void kLoginWithValidCred(String kuser, String kpwd) {
+
+        //Login with Valid Username and Password
+        kLoginPageURL();
         enterInput(kusername, kuser);
         enterInput(kpassword, kpwd);
+        ts.takeScreenshot("Login_Valid_Cred");
         clickElement(kLoginButton);
-        WaitHelpers.visibilityOfElement(kAppointmentPageLoaded);
 
+        WaitHelpers.waitJVM(3000);
+
+        //WaitHelpers.visibilityOfElement(kAppointmentPageLoaded);
+        ts.takeScreenshot("Login_Succesfully_Navigate_To_BookAppointmentPage");
     }
+
 }

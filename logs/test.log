@@ -2,3 +2,85 @@
 2025-09-22 19:56:10 INFO  TestVWOLogin_02_Prop_POM - Done the Test cases
 2025-09-22 19:56:11 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
 2025-09-22 19:56:14 INFO  TestVWOLogin_02_Prop_POM - Asserting the invalid credentials
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:43:45 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\testng_vwo_prop_part2.xml
+
+2025-09-30 08:43:45 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-09-30 08:43:47 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-09-30 08:44:09 INFO  TestVWOLogin_02_Prop_POM - Done the Test cases
+2025-09-30 08:44:11 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-09-30 08:44:17 INFO  TestVWOLogin_02_Prop_POM - Asserting the invalid credentials
+2025-09-30 08:44:17 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1a4d1ab7: 0 ms
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-30 08:44:42 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\KatalonLogIn_ConfirmingAppointment.xml
+
+2025-09-30 08:44:42 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-09-30 08:44:43 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Invalid Login TC
+2025-09-30 08:44:49 INFO  KatalonLogIn_ConfirmingAppointment - Katalon Invalid Login TC - Done
+2025-09-30 08:44:51 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Valid Login TC
+2025-09-30 08:44:59 INFO  KatalonLogIn_ConfirmingAppointment - Login Successfully Done
+2025-09-30 08:44:59 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Page Loaded Successfully
+2025-09-30 08:45:00 INFO  KatalonLogIn_ConfirmingAppointment - Entered the Appointment details Successfully
+2025-09-30 08:45:00 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Successfully
+2025-09-30 08:45:00 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Validated
+2025-09-30 08:45:00 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@242b6e1a: 0 ms
