@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
-import static com.LipiAutomation.driver.DriverManager.getDriver;
+import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
 
 public class CommonToAllPage {
     // Common to All page

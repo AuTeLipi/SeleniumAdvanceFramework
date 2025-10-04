@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.function.Function;
 
-import static com.LipiAutomation.driver.DriverManager.getDriver;
+import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
 
 public class WaitHelpers {
 

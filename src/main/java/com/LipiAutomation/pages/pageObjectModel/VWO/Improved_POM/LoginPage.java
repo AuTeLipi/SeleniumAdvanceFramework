@@ -5,7 +5,7 @@ import com.LipiAutomation.utils.WaitHelpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import static com.LipiAutomation.driver.DriverManager.getDriver;
+import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
 
 public class LoginPage extends CommonToAllPage {
 

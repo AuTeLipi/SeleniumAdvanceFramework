@@ -9,7 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import static com.LipiAutomation.driver.DriverManager.getDriver;
+import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
 
 @Test(retryAnalyzer = RetryAnalyzer.class)
 public class TestVWOLogin_04_Retry_Prop_Improved_POM extends CommonToAllTest {

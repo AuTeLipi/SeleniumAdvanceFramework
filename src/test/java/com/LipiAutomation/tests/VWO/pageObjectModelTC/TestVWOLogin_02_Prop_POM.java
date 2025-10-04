@@ -1,7 +1,7 @@
 package com.LipiAutomation.tests.VWO.pageObjectModelTC;
 
 import com.LipiAutomation.base.CommonToAllTest;
-import com.LipiAutomation.driver.DriverManager;
+import com.LipiAutomation.driver.DriverManagerTL;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
@@ -31,7 +31,7 @@ public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
 
 
         // Page Class Code (POM Code) - 2 - L
-        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
+        LoginPage loginPage = new LoginPage(DriverManagerTL.getDriver());
         String error_msg = loginPage.loginToVWOLoginInvalidCreds(PropertiesReader.readKey("invalid_username"),PropertiesReader.readKey("invalid_password"));
 
         // Assertions - 3 - V
@@ -51,10 +51,10 @@ public class TestVWOLogin_02_Prop_POM extends CommonToAllTest {
         logger.info("Starting the Testcases Page Object Model");
 
         // Page Class Code (POM Code) - 2 - L
-        LoginPage loginPage_VWO = new LoginPage(DriverManager.getDriver());
+        LoginPage loginPage_VWO = new LoginPage(DriverManagerTL.getDriver());
         loginPage_VWO.loginToVWOLoginValidCreds(PropertiesReader.readKey("username"),PropertiesReader.readKey("password"));
 
-        DashBoardPage dashBoardPage  = new DashBoardPage(DriverManager.getDriver());
+        DashBoardPage dashBoardPage  = new DashBoardPage(DriverManagerTL.getDriver());
         String usernameLoggedIn = dashBoardPage.loggedInUserName();
 
         assertThat(usernameLoggedIn).isNotBlank().isNotNull().isNotEmpty();

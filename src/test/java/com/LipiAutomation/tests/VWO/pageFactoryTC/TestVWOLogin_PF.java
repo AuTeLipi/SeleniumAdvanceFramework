@@ -1,7 +1,7 @@
 package com.LipiAutomation.tests.VWO.pageFactoryTC;
 
 import com.LipiAutomation.base.CommonToAllTest;
-import com.LipiAutomation.driver.DriverManager;
+import com.LipiAutomation.driver.DriverManagerTL;
 import com.LipiAutomation.pages.pageFactory.VWO.DashboardPage_PF;
 import com.LipiAutomation.pages.pageFactory.VWO.LoginPage_PF;
 import com.LipiAutomation.utils.PropertiesReader;
@@ -23,7 +23,7 @@ public class TestVWOLogin_PF extends CommonToAllTest {
     public void testLoginNegativeVWO_PF() {
         logger.info("Starting the testLoginNegativeVWO_PF Testcases Page Factory");
 
-        LoginPage_PF loginPage_PF = new LoginPage_PF(DriverManager.getDriver());
+        LoginPage_PF loginPage_PF = new LoginPage_PF(DriverManagerTL.getDriver());
         String error_msg = loginPage_PF.loginToVWOInvalidCreds();
 
         logger.info("Error msg I got "+ error_msg);
@@ -39,12 +39,12 @@ public class TestVWOLogin_PF extends CommonToAllTest {
     public void testLoginPostiveVWO_PF() {
         logger.info("Starting the testLoginPostiveVWO_PF Testcases Page Factory");
 
-        LoginPage_PF loginPagePf = new LoginPage_PF(DriverManager.getDriver());
+        LoginPage_PF loginPagePf = new LoginPage_PF(DriverManagerTL.getDriver());
 
         loginPagePf.loginToVWOValidCreds();
         loginPagePf.dashBoardVWOURL();
 
-        DashboardPage_PF dashboardPagePf = new DashboardPage_PF(DriverManager.getDriver());
+        DashboardPage_PF dashboardPagePf = new DashboardPage_PF(DriverManagerTL.getDriver());
         String actualUserName =  dashboardPagePf.dashBoardPageOfVWO();
         String expectedUserName = PropertiesReader.readKey("expected_username");
 
