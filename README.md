@@ -67,7 +67,7 @@ A Production-Ready Selenium framework in Java that pairs TestNG and Maven with t
 
 <img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/7abfaab5-4e00-4e79-91ab-f0885ef3e190" />
 
-https://github.com/user-attachments/assets/5b6cc5bf-b73f-458c-8f02-261aa0c2ac27
+https://github.com/user-attachments/assets/5ce828e6-91d4-48c3-a779-73143dd8ca21
 
 ### 📌 Notes
 - All configs are in config.properties
