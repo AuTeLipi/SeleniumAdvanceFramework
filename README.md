@@ -65,7 +65,9 @@ A Production-Ready Selenium framework in Java that pairs TestNG and Maven with t
 - Selenoid is a powerful tool for running Selenium tests in Docker containers.
 - which can help you manage and scale your test automation infrastructure more efficiently.
 
-![Screenshot 2024-06-13 at 15 56 21](https://github.com/PramodDutta/ATB5xWebAutomationFramework/assets/1409610/3c957a88-8cf5-4e3c-9134-9fd41fd41d9b)
+<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/7abfaab5-4e00-4e79-91ab-f0885ef3e190" />
+
+https://github.com/user-attachments/assets/5b6cc5bf-b73f-458c-8f02-261aa0c2ac27
 
 ### 📌 Notes
 - All configs are in config.properties
