@@ -1,13 +1,13 @@
-package com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM;
+package com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM_WithDriverTLMultiBrowsers;
 
 import com.LipiAutomation.base.CommonToAllPage;
 import com.LipiAutomation.utils.WaitHelpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import static com.LipiAutomation.driver.DriverManager.getDriver;
+import static com.LipiAutomation.driver.DriverMangerTLWithMultiBrowsers.getDriver;
 
-public class LoginPage extends CommonToAllPage {
+public class VWO_LoginPage extends CommonToAllPage {
 
     // WebDriver
     // Page Class
@@ -16,7 +16,7 @@ public class LoginPage extends CommonToAllPage {
 
     WebDriver driver;
 
-    public LoginPage(WebDriver driver) {
+    public VWO_LoginPage(WebDriver driver) {
 
         this.driver = driver;
     }

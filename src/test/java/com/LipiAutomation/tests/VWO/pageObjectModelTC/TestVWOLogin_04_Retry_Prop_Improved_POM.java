@@ -9,7 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
+import static com.LipiAutomation.driver.DriverManager.getDriver;
 
 @Test(retryAnalyzer = RetryAnalyzer.class)
 public class TestVWOLogin_04_Retry_Prop_Improved_POM extends CommonToAllTest {
@@ -32,7 +32,7 @@ public class TestVWOLogin_04_Retry_Prop_Improved_POM extends CommonToAllTest {
     public void testPass() {
         getDriver().get("https://app.vwo.com");
         logger.info("Starting the Testcases Page Object Model");
-        new TakeScreenShot().takeScreenshot("testPass_1");
+        new TakeScreenShot().takeScreenshot("testPass_1"); // Manually taken screenshot
         Assert.assertTrue(true);
     }
 

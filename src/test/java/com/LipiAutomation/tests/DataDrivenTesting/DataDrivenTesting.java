@@ -2,7 +2,6 @@ package com.LipiAutomation.tests.DataDrivenTesting;
 
 import com.LipiAutomation.base.CommonToAllTest;
 import com.LipiAutomation.driver.DriverManager;
-import com.LipiAutomation.driver.DriverManagerTL;
 import com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM.LoginPage;
 import com.LipiAutomation.utils.PropertiesReader;
 import com.LipiAutomation.utilsExcel.UtilExcel;
@@ -22,7 +21,7 @@ public class DataDrivenTesting extends CommonToAllTest {
     public void test_vwo_login(String email, String password) {
 
         // Page Class Code (POM Code) - 2 - L
-        LoginPage loginPage = new LoginPage(DriverManagerTL.getDriver());
+        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
         String error_msg = loginPage.loginToVWOLoginInvalidCreds(email,password);
 
         // Assertions - 3 - V

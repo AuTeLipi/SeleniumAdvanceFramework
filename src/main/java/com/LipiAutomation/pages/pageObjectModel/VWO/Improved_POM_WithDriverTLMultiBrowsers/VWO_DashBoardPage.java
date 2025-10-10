@@ -1,15 +1,14 @@
-package com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM;
+package com.LipiAutomation.pages.pageObjectModel.VWO.Improved_POM_WithDriverTLMultiBrowsers;
 
 import com.LipiAutomation.base.CommonToAllPage;
+import com.LipiAutomation.utils.WaitHelpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import com.LipiAutomation.utils.WaitHelpers;
 
-
-public class DashBoardPage extends CommonToAllPage {
+public class VWO_DashBoardPage extends CommonToAllPage {
     WebDriver driver;
 
-    public DashBoardPage(WebDriver driver) {
+    public VWO_DashBoardPage(WebDriver driver) {
         this.driver = driver;
     }
 

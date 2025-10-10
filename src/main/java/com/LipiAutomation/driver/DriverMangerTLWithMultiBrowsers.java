@@ -1,6 +1,5 @@
 package com.LipiAutomation.driver;
 
-import com.LipiAutomation.utils.PropertiesReader;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -9,25 +8,22 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-public class DriverManager {
+public class DriverMangerTLWithMultiBrowsers {
 
-    public static WebDriver driver;
+    private static final ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     public static WebDriver getDriver() {
-
-        return driver;
+        return driver.get();
     }
 
-    public static void setDriver(WebDriver driver) {
-        DriverManager.driver = driver;
+    public static void setDriver(WebDriver driverInstance) {
+        driver.set(driverInstance);
     }
 
-    // When we want to start the browser
-    public static void init() {
-        String browser = PropertiesReader.readKey("browser");
-        browser = browser.toLowerCase();
+    public static void init(String browserName) {
+        browserName = browserName.toLowerCase();
 
-        switch (browser) {
+        switch (browserName) {
             case "chrome":
                 ChromeOptions chromeOptions = new ChromeOptions();
                 chromeOptions.addArguments("--start-maximized");
@@ -47,21 +43,15 @@ public class DriverManager {
                 break;
 
             default:
-                throw new IllegalArgumentException("Unsupported browser: " + browser);
+                throw new IllegalArgumentException("Unsupported browser: " + browserName);
         }
-
-
     }
 
-
-    // When we want to close the browser
     public static void down() {
         if (getDriver() != null) {
-            driver.quit();
-            driver = null;
+            getDriver().quit();
+            driver.remove();
         }
-
     }
-
 
 }

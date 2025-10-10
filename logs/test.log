@@ -634,3 +634,686 @@
 2025-10-04 17:17:26 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Successfully
 2025-10-04 17:17:26 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Validated
 2025-10-04 17:17:26 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@52eacb4b: 1 ms
+2025-10-09 14:48:41 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 14:52:53 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 14:53:57 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 14:58:43 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 14:59:08 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 14:59:56 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:00:01 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:01:27 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:01:29 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:08:17 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:08:18 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:08:26 INFO  TestVWOLogin_02_Prop_POM - Asserting the invalid credentials
+2025-10-09 15:08:52 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:08:54 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:10:42 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:10:44 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:12:04 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:12:06 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:13:16 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:13:17 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:18:32 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:18:33 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Invalid Login TC
+2025-10-09 15:18:44 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:18:46 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:24:52 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:24:54 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:39:07 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:39:09 INFO  TestVWOLogin_02_Prop_POM - Starting the Testcases Page Object Model
+2025-10-09 15:39:30 INFO  TestVWOLogin_02_Prop_POM - Done the Test cases
+2025-10-09 15:39:49 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:39:51 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:44:51 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:44:52 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:46:17 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:46:19 INFO  TestVWOLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-09 15:47:29 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:47:30 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:52:24 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:52:26 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:52:27 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 15:52:27 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 15:54:30 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:54:32 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 15:54:33 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 15:54:33 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 15:54:33 INFO  LoginAndValidateTheAmountSpend - Successfully verified the Total Spent Amount
+2025-10-09 15:55:16 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:55:18 INFO  TestVWOLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-09 15:55:24 INFO  TestVWOLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-09 15:55:32 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:55:34 INFO  TestVWOLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-09 15:55:46 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 15:55:48 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Invalid Login TC
+2025-10-09 15:55:53 INFO  KatalonLogIn_ConfirmingAppointment - Katalon Invalid Login TC - Done
+2025-10-09 15:55:55 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Valid Login TC
+2025-10-09 15:56:04 INFO  KatalonLogIn_ConfirmingAppointment - Login Successfully Done
+2025-10-09 15:56:04 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Page Loaded Successfully
+2025-10-09 15:56:05 INFO  KatalonLogIn_ConfirmingAppointment - Entered the Appointment details Successfully
+2025-10-09 15:56:05 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Successfully
+2025-10-09 15:56:06 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Validated
+2025-10-09 16:02:17 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:02:19 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Invalid Login TC
+2025-10-09 16:02:21 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Valid Login TC
+2025-10-09 16:07:57 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:07:59 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Invalid Login TC
+2025-10-09 16:09:47 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:09:49 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Invalid Login TC
+2025-10-09 16:09:54 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Katalon Invalid Login TC - Done
+2025-10-09 16:09:55 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Valid Login TC
+2025-10-09 16:10:03 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Login Successfully Done
+2025-10-09 16:10:03 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Page Loaded Successfully
+2025-10-09 16:10:04 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Entered the Appointment details Successfully
+2025-10-09 16:10:04 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Confirmation Successfully
+2025-10-09 16:10:04 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Confirmation Validated
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:11:57 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\KatalonLogIn_ConfirmingAppointment_ParallelExecution.xml
+
+2025-10-09 16:11:57 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-09 16:11:57 INFO  Utils - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-10-09 16:11:59 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Valid Login TC
+2025-10-09 16:11:59 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Starting Katalon Invalid Login TC
+2025-10-09 16:12:05 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Katalon Invalid Login TC - Done
+2025-10-09 16:12:08 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Login Successfully Done
+2025-10-09 16:12:08 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Page Loaded Successfully
+2025-10-09 16:12:09 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Entered the Appointment details Successfully
+2025-10-09 16:12:09 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Confirmation Successfully
+2025-10-09 16:12:09 INFO  KatalonLogIn_ConfirmingAppointment_ParallelExecution - Appointment Confirmation Validated
+2025-10-09 16:12:11 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3dddbe65: 0 ms
+2025-10-09 16:15:17 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:15:19 INFO  TestVWOLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-09 16:15:27 INFO  TestVWOLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-09 16:18:53 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:18:55 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:18:57 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:18:57 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:19:58 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 16:19:59 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:20:01 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:20:01 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:10 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\LoginAndValidateTheAmountSpend.xml
+
+2025-10-09 16:23:10 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-09 16:23:12 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:23:13 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:23:13 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:15 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:23:16 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:23:16 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:17 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:23:19 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:23:19 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:20 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:23:22 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:23:22 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:22 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@11900483: 0 ms
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:23:40 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\LoginAndValidateTheAmountSpend.xml
+
+2025-10-09 16:23:40 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-09 16:23:42 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:23:43 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:23:43 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:23:43 INFO  LoginAndValidateTheAmountSpend - Successfully verified the Total Spent Amount
+2025-10-09 16:23:44 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f9f71ff: 0 ms
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:28:08 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\LoginAndValidateTheAmountSpend_Retry.xml
+
+2025-10-09 16:28:08 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-09 16:28:10 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:28:12 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:28:12 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:28:12 INFO  LoginAndValidateTheAmountSpend - Successfully verified the Total Spent Amount
+2025-10-09 16:28:13 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:28:15 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:28:16 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:28:18 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:28:19 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26350ea2: 0 ms
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 16:29:35 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\LoginAndValidateTheAmountSpend_Retry.xml
+
+2025-10-09 16:29:35 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-09 16:29:36 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login TC
+2025-10-09 16:29:38 INFO  LoginAndValidateTheAmountSpend - app.html page successfully loaded
+2025-10-09 16:29:38 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Dashboard TC where need to calculate Total Amount Spent
+2025-10-09 16:29:38 INFO  LoginAndValidateTheAmountSpend - Successfully verified the Total Spent Amount
+2025-10-09 16:29:39 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:29:41 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:29:43 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:29:45 INFO  LoginAndValidateTheAmountSpend - Starting Applitools Login Fail To Retry TC
+2025-10-09 16:29:45 ERROR AllureLifecycle - Could not add attachment: no test is running
+2025-10-09 16:29:46 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@648d0e6d: 0 ms
+2025-10-09 19:24:02 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:25:50 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:26:54 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:29:04 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:38:47 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:39:21 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:40:54 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:44:00 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:44:49 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:47:45 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:49:59 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 19:52:02 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-09 20:03:37 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\DemoQA_WebTable_Retry_FailedScreenShotListerners.xml
+
+2025-10-09 20:03:37 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-09 20:03:39 INFO  EditAndValidateChangedValuesInTable - Starting DemoQA WebTable TC
+2025-10-09 20:03:50 INFO  EditAndValidateChangedValuesInTable - Successfully got Updated Age and Salary
+2025-10-09 20:03:50 INFO  EditAndValidateChangedValuesInTable - Successfully Validated both updated Age and Salary
+2025-10-09 20:03:51 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@8f2098e: 0 ms
+2025-10-09 20:13:33 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 20:13:34 INFO  EditAndValidateChangedValuesInTable - Starting DemoQA WebTable TC
+2025-10-09 20:13:34 INFO  EditAndValidateChangedValuesInTable - Successfully got previous Age and Salary
+2025-10-09 20:13:44 INFO  EditAndValidateChangedValuesInTable - Successfully got Updated Age and Salary
+2025-10-09 20:13:44 INFO  EditAndValidateChangedValuesInTable - Successfully Validated both updated Age and Salary
+2025-10-09 20:18:22 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 20:18:24 INFO  EditAndValidateChangedValuesInTable - Starting DemoQA WebTable TC
+2025-10-09 20:18:28 INFO  EditAndValidateChangedValuesInTable - Successfully got previous Age and Salary
+2025-10-09 20:18:37 INFO  EditAndValidateChangedValuesInTable - Successfully got Updated Age and Salary
+2025-10-09 20:18:37 INFO  EditAndValidateChangedValuesInTable - Successfully Validated both updated Age and Salary
+2025-10-09 21:23:59 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 21:24:01 INFO  EditAndValidateChangedValuesInTable - Starting DemoQA WebTable TC
+2025-10-09 21:24:49 INFO  EditAndValidateChangedValuesInTable - Successfully got previous Age and Salary
+2025-10-09 21:24:54 INFO  EditAndValidateChangedValuesInTable - Successfully got Updated Age and Salary
+2025-10-09 21:24:54 INFO  EditAndValidateChangedValuesInTable - Successfully Validated both updated Age and Salary
+2025-10-09 21:26:26 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-09 21:26:28 INFO  EditAndValidateChangedValuesInTable - Starting DemoQA WebTable TC
+2025-10-09 21:26:31 INFO  EditAndValidateChangedValuesInTable - Successfully got previous Age and Salary
+2025-10-09 21:26:35 INFO  EditAndValidateChangedValuesInTable - Successfully got Updated Age and Salary
+2025-10-09 21:26:35 INFO  EditAndValidateChangedValuesInTable - Successfully Validated both updated Age and Salary
+2025-10-10 18:14:30 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 18:14:34 INFO  DemoQAModal_TC - Starting, TC01 - Validation the Content inside the Small Modal
+2025-10-10 18:14:52 INFO  DemoQAModal_TC - Validating Small Modal
+2025-10-10 18:14:52 INFO  DemoQAModal_TC - Small Modal is Validated, Successfully
+2025-10-10 18:15:33 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 18:15:35 INFO  DemoQAModal_TC - Starting, TC02 - Validation the Content inside the Large Modal
+2025-10-10 18:15:59 INFO  DemoQAModal_TC - Validating Large Modal
+2025-10-10 18:15:59 INFO  DemoQAModal_TC - Large Modal is Validated, Successfully
+2025-10-10 18:16:19 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 18:16:21 INFO  DemoQAModal_TC - Starting, TC02 - Validation the Content inside the Large Modal
+2025-10-10 18:16:38 INFO  DemoQAModal_TC - Validating Large Modal
+2025-10-10 18:16:38 INFO  DemoQAModal_TC - Large Modal is Validated, Successfully
+2025-10-10 18:16:40 INFO  DemoQAModal_TC - Starting, TC01 - Validation the Content inside the Small Modal
+2025-10-10 18:17:00 INFO  DemoQAModal_TC - Validating Small Modal
+2025-10-10 18:17:00 INFO  DemoQAModal_TC - Small Modal is Validated, Successfully
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 18:25:43 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\DemoQAModal_TC_Retry_FailedScreenShots.xml
+
+2025-10-10 18:25:43 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-10 18:25:45 INFO  DemoQAModal_TC - Starting, TC01 - Validation the Content inside the Small Modal
+2025-10-10 18:26:07 INFO  DemoQAModal_TC - Validating Small Modal
+2025-10-10 18:26:07 INFO  DemoQAModal_TC - Small Modal is Validated, Successfully
+2025-10-10 18:26:08 INFO  DemoQAModal_TC - Starting, TC02 - Validation the Content inside the Large Modal
+2025-10-10 18:26:55 INFO  DemoQAModal_TC - Validating Large Modal
+2025-10-10 18:26:55 INFO  DemoQAModal_TC - Large Modal is Validated, Successfully
+2025-10-10 18:26:55 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@55e2fe3c: 2 ms
+2025-10-10 22:20:24 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 22:20:28 INFO  DemoQAFrames_TC - Starting, TC# - Checking whether can navigate back and front from default fram to 2 other frams in it
+2025-10-10 22:20:49 INFO  DemoQAFrames_TC - Validating Frame1 Text
+2025-10-10 22:20:49 INFO  DemoQAFrames_TC - Successfully Validatied Frame1 Text
+2025-10-10 22:20:49 INFO  DemoQAFrames_TC - Validating Frame2 Text
+2025-10-10 22:20:49 INFO  DemoQAFrames_TC - Validating Frame2 Text
+2025-10-10 22:59:58 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 23:00:00 INFO  DemoQAFrames_And_NestedFrames_TC - Starting, TC#01 - Checking whether can navigate back and front from default frame to 2 other frame in it
+2025-10-10 23:00:11 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Frame1 Text
+2025-10-10 23:00:11 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validatied Frame1 Text
+2025-10-10 23:00:11 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Frame2 Text
+2025-10-10 23:00:11 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validatied Frame2 Text
+2025-10-10 23:00:14 INFO  DemoQAFrames_And_NestedFrames_TC - Sarting, TC#02 - Checking whether can navigate back and front from default frame to nested frames in it
+2025-10-10 23:00:20 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Parent Body Text
+2025-10-10 23:00:20 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Parent Body Text
+2025-10-10 23:00:20 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Child Body Text
+2025-10-10 23:00:20 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Child Body Text
+2025-10-10 23:03:55 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 23:03:57 INFO  DemoQAFrames_And_NestedFrames_TC - Sarting, TC#02 - Checking whether can navigate back and front from default frame to nested frames in it
+2025-10-10 23:04:17 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Parent Body Text
+2025-10-10 23:04:17 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Parent Body Text
+2025-10-10 23:04:17 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Child Body Text
+2025-10-10 23:04:17 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Child Body Text
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-10 23:07:08 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\DemoQAFrames_And_NestedFrames_TC_With_Retry_FailedScreenShot.xml
+
+2025-10-10 23:07:08 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-10 23:07:10 INFO  DemoQAFrames_And_NestedFrames_TC - Starting, TC#01 - Checking whether can navigate back and front from default frame to 2 other frame in it
+2025-10-10 23:07:31 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Frame1 Text
+2025-10-10 23:07:31 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated Frame1 Text
+2025-10-10 23:07:31 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Frame2 Text
+2025-10-10 23:07:31 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated Frame2 Text
+2025-10-10 23:07:33 INFO  DemoQAFrames_And_NestedFrames_TC - Sarting, TC#02 - Checking whether can navigate back and front from default frame to nested frames in it
+2025-10-10 23:07:48 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Parent Body Text
+2025-10-10 23:07:48 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Parent Body Text
+2025-10-10 23:07:48 INFO  DemoQAFrames_And_NestedFrames_TC - Validating Child Body Text
+2025-10-10 23:07:48 INFO  DemoQAFrames_And_NestedFrames_TC - Successfully Validated the Child Body Text
+2025-10-10 23:07:49 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@859ea42: 0 ms
+2025-10-10 23:32:56 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-10 23:33:05 INFO  TestVWOLogin_04_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-11 00:04:05 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-11 00:07:20 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-11 00:10:11 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-10-11 00:11:25 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot.xml
+
+2025-10-11 00:11:28 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:11:31 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:14:50 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot.xml
+
+2025-10-11 00:14:52 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:14:57 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:15:05 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Logged In
+2025-10-11 00:15:07 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Logged In
+2025-10-11 00:17:03 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot.xml
+
+2025-10-11 00:17:06 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:17:10 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Starting, TC#1 Verify that valid creds dashboard page is loaded
+2025-10-11 00:17:19 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Logged In
+2025-10-11 00:17:19 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Validating the Username
+2025-10-11 00:17:19 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Validated the Username
+2025-10-11 00:17:19 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Done the Test cases
+2025-10-11 00:17:22 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Logged In
+2025-10-11 00:17:24 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Validating the Username
+2025-10-11 00:17:24 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Successfully Validated the Username
+2025-10-11 00:17:24 INFO  TestVWOLogin_WithValidCreds_Improved_Retry_ScreenShot - Done the Test cases
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 00:20:23 INFO  Utils - [TestNG] Running:
+  C:\Users\Home\IdeaProjects\SeleniumAdvanceFramework\KatalonLogIn_ConfirmingAppointment.xml
+
+2025-10-11 00:20:23 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-11 00:20:25 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Invalid Login TC
+2025-10-11 00:20:34 INFO  KatalonLogIn_ConfirmingAppointment - Katalon Invalid Login TC - Done
+2025-10-11 00:20:36 INFO  KatalonLogIn_ConfirmingAppointment - Starting Katalon Valid Login TC
+2025-10-11 00:20:44 INFO  KatalonLogIn_ConfirmingAppointment - Login Successfully Done
+2025-10-11 00:20:44 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Page Loaded Successfully
+2025-10-11 00:20:45 INFO  KatalonLogIn_ConfirmingAppointment - Entered the Appointment details Successfully
+2025-10-11 00:20:45 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Successfully
+2025-10-11 00:20:45 INFO  KatalonLogIn_ConfirmingAppointment - Appointment Confirmation Validated
+2025-10-11 00:20:45 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d5d5353: 0 ms

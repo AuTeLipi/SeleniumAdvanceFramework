@@ -23,16 +23,19 @@ public class DriverManagerTL {
 
     // Set driver for the current thread
     public static void setDriver(WebDriver driverRef) {
+
         dr.set(driverRef);
     }
 
     // Get driver for the current thread
     public static WebDriver getDriver() {
+
         return dr.get();
     }
 
     // Remove driver reference from ThreadLocal
     public static void unload() {
+
         dr.remove();
     }
 
@@ -40,31 +43,6 @@ public class DriverManagerTL {
     // Initialize WebDriver based on browser name mentioned in data.properties
     public static void init() throws MalformedURLException {
 
-        ChromeOptions options = new ChromeOptions();
-        options.setCapability("browserVersion", "128.0");
-        options.setCapability("selenoid:options", new HashMap<String, Object>() {{
-            /* How to add test badge */
-            put("name", "Test badge...");
-
-            /* How to set session timeout */
-            put("sessionTimeout", "15m");
-
-            /* How to set timezone */
-            put("env", new ArrayList<String>() {{
-                add("TZ=UTC");
-            }});
-
-            /* How to add "trash" button */
-            put("labels", new HashMap<String, Object>() {{
-                put("manual", "true");
-            }});
-
-            /* How to enable video recording */
-            put("enableVideo", true);
-        }});
-        setDriver(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), options));
-
-        /*
         if (getDriver() == null) {
             String browser = PropertiesReader.readKey("browser").toLowerCase();
 
@@ -94,6 +72,34 @@ public class DriverManagerTL {
                     throw new IllegalArgumentException("Unsupported browser: " + browser);
             }
         }
+
+
+        /*
+        ChromeOptions options = new ChromeOptions();
+        options.setCapability("browserVersion", "128.0");
+        options.setCapability("selenoid:options", new HashMap<String, Object>() {{
+            // How to add test badge
+            put("name", "Test badge...");
+
+            // How to set session timeout
+            put("sessionTimeout", "15m");
+
+            // How to set timezone
+            put("env", new ArrayList<String>() {{
+                add("TZ=UTC");
+            }});
+
+            // How to add "trash" button
+            put("labels", new HashMap<String, Object>() {{
+                put("manual", "true");
+            }});
+
+            // How to enable video recording
+            put("enableVideo", true);
+        }});
+
+        setDriver(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), options));
+
          */
 
     }
@@ -108,3 +114,4 @@ public class DriverManagerTL {
     }
 
 }
+

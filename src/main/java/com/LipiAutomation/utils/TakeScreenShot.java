@@ -11,7 +11,9 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
+// import static com.LipiAutomation.driver.DriverMangerTLWithMultiBrowsers.getDriver;
+// import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
+import static com.LipiAutomation.driver.DriverManager.getDriver;
 
 public class TakeScreenShot {
 

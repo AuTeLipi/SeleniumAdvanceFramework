@@ -11,7 +11,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.function.Function;
 
-import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
+// import static com.LipiAutomation.driver.DriverMangerTLWithMultiBrowsers.getDriver;
+// import static com.LipiAutomation.driver.DriverManagerTL.getDriver;
+import static com.LipiAutomation.driver.DriverManager.getDriver;
 
 public class WaitHelpers {
 
@@ -81,12 +83,5 @@ public class WaitHelpers {
     public static WebElement elementToBeClickable(By elementLocation) {
         return new WebDriverWait(getDriver(), Duration.ofSeconds(20)).until(ExpectedConditions.elementToBeClickable(elementLocation));
     }
-
-    public WebElement getElement(By key) {
-        return getDriver().findElement(key);
-    }
-
-
-
 
 }
